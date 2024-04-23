@@ -1,0 +1,34 @@
+#header {
+  background-color: #dcf2f1;
+}
+
+.font1 {
+  font-family: "sacramento", cursive;
+  font-size: 60px;
+  letter-spacing: 5px;
+}
+
+.font2 {
+  font-size: 30px;
+}
+
+.portrait {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+#content {
+  background-color: #7fc7d9;
+}
+
+#skills {
+  background-color: #365486;
+}
+
+#footer {
+  background-color: #0f1035;
+}
+
+p {
+  color: white;
+}
